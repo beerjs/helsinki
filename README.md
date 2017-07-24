@@ -40,5 +40,6 @@ Community is the reason why we do what we do.  We highly value growing together 
 
 ### Organizers
 
-* Alexei Moisseev ( [GitHub](https://github.com/alexeimoisseev), [Facebook](https://www.facebook.com/alexeimoisseev),  [Telegram](https://t.me/alexeimoisseev) ).
+* Alexei Moisseev ([GitHub](https://github.com/alexeimoisseev), [Facebook](https://www.facebook.com/alexeimoisseev),  [Telegram](https://t.me/alexeimoisseev)).
+
 Do you want to contribute and become an organizer? Get in touch with one of the organizers first.
