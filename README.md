@@ -13,7 +13,7 @@ So if you are a javascript maniac or just curious, come and have a chat with us!
 
 We usually meet every Tuesday in a bar choosen from the community. Do not be shy and come and talk to us on so many topics.
 
-Click the <kbd>watch</kbd> button for this repo to get notified of upcoming meeting dates or date and location changes.  Don't forget to __star__ BeerJS Helsinki too.
+Click the <kbd>watch</kbd> button for this repo to get notified of upcoming meeting dates or date and location changes.  Don't forget to __star__ BeerJS Helsinki too. Join [our Meetup.com group](https://www.meetup.com/BeerJS-Helsinki-Meetup/).
 
 ### Want to share something?
 
@@ -36,6 +36,7 @@ Community is the reason why we do what we do.  We highly value growing together 
 * [BeerJS Slack](https://beerjs.slack.com/messages/helsinki/)
 * [Join the BeerJS Slack Team](https://beerjs-slack-invite.herokuapp.com/)
 * [Telegram chat](https://t.me/beerjs_helsinki)
+* [Meetup.com group](https://www.meetup.com/BeerJS-Helsinki-Meetup/)
 
 
 ### Organizers
