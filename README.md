@@ -1,4 +1,6 @@
 # Beerjs Helsinki, Finland :beer:
+![beerjs/helsinki](https://github.com/beerjs/helsinki/raw/master/thumb_helsinki.jpg)
+
 [![Telegram](https://img.shields.io/badge/Telegram-Join_chat-blue.svg?style=flat)](https://t.me/beerjs_helsinki)
 
 BeerJS Helsinki is for devs to get together, throw a few back, and learn collectively about JavaScript. We value good beer and good code and encourage the sharing of both.
